@@ -8,7 +8,7 @@ calculation of such functions with greater accuracy on a computer's performance.
 Requirements
 ------------
 
-* PDP-11 computer. This library was tested on PDP-11/34 clone - Russian DVK2. 
+* PDP-11 computer or emulator. This library was tested on PDP-11/34 clone - Russian DVK2. 
 * PDP-11 floating point CPU extension, or them software emulation
 
 Functions
@@ -27,3 +27,7 @@ Addition
 
 VCOPY.COM - Microsoft DOS program to copy files from FAT32 to a 5" floppy disk with a RT-11 file system. 
 Supports only physically compatible discs (MY). Author of the program is unknown.
+
+--
+[![LICENSE WTFPL](wtfpl-badge-1.png)](LICENSE)
+
